@@ -1,0 +1,14 @@
+{
+	"name": "d-commerce-backend",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"config": "^3.3.6",
+		"express": "^4.17.1",
+		"mongoose": "^5.13.5"
+	},
+	"scripts": {
+		"start": "nodemon app.js"
+	}
+}
